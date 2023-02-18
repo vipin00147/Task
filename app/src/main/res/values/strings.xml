@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test_Task</string>
+    <string name="no_internet_available">No internet connection! Please check your internet connectivity.</string>
+</resources>
